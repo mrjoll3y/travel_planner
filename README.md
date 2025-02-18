@@ -11,7 +11,7 @@ I created this travel planner app to help people organize their trips, including
 **Purpose for creating this app:**
 I built this app because I wanted to get better at mobile development and work with Flutter, which is a framework I’ve been learning. I also thought a travel planner would be a cool and useful project since it’s something people use, and I could practice managing different types of data and building an interactive UI. This project helped me learn a lot about app structure, state management, and how to create something practical.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/rKkkyhds6Jc)
 
 ---
 
