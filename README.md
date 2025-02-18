@@ -40,14 +40,9 @@ Here are a few websites that helped me out a lot during development:
 
 # Future Work
 
-There’s still a lot I want to improve and add to this app. Here’s what I’m planning to work on next:
+There’s still a lot I could do to improve and add to this app. Here’s what I’m thinking would help:
 
+* **Layout** - Make the application visually appealing.
 * **User Accounts** – Adding the ability for users to create accounts and save their trips online.
-* **Calendar Sync** – Making it so users can sync their trips with their phone calendar.
-* **Map Integration** – Adding a map to show trip destinations.
+* **Calendar view** – Making it so users can see updates in a calender.
 * **Expense Tracking** – Helping users keep track of their budget and actual expenses while traveling.
-* **Dark Mode** – A dark mode option for people who prefer it or use the app in low-light environments.
-
----
-
-This version is more casual and reflects a tone that’s common for a college student sharing their work while also discussing the app’s development process and goals.
